@@ -127,7 +127,6 @@
 
 **Blog**
 
-[![Zenn](https://img.shields.io/badge/Zenn-3EA8FF?style=flat-square&logo=zenn&logoColor=white)](https://click.lapius7.com/zenn)
 [![Note](https://img.shields.io/badge/Note-41C9B4?style=flat-square&logoColor=white)](https://click.lapius7.com/Note)
 [![HatenaBlog](https://img.shields.io/badge/HatenaBlog-00A4DE?style=flat-square&logo=hatena&logoColor=white)](https://click.lapius7.com/HatenaBlog)
 
@@ -148,6 +147,7 @@
 
 **Dev**
 
+[![Zenn](https://img.shields.io/badge/Zenn-3EA8FF?style=flat-square&logo=zenn&logoColor=white)](https://click.lapius7.com/zenn)
 [![StackOverflow](https://img.shields.io/badge/StackOverflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white)](https://click.lapius7.com/SOF)
 
 **Other**

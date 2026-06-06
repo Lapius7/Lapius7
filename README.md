@@ -1,38 +1,61 @@
-# Hi, I'm Lapius7 👋
+<div align="center">
 
-Self-taught developer building and running web services on VPS.
+![Profile Views](https://komarev.com/ghpvc/?username=Lapius7&color=green&style=flat-square&label=PROFILE+VIEWS)
+
+# Lapius / 狐ノ瀬つづり
+
+**Full-Stack Developer** · Japan
+
+*Web開発や様々なゲームを趣味で楽しんでいるしがない高校生です。*
+
+</div>
 
 ---
 
 ## Tech Stack
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+**Web / Frontend**
+
+[![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite&perline=8)](https://skillicons.dev)
+
+**Backend / Database**
+
+[![Skills](https://skillicons.dev/icons?i=nodejs,express,fastapi,py,java,php,mysql,mongodb,redis,prisma&perline=10)](https://skillicons.dev)
+
+**Infra / Tools**
+
+[![Skills](https://skillicons.dev/icons?i=docker,nginx,linux,git,powershell,latex&perline=8)](https://skillicons.dev)
 
 ---
 
 ## Projects
 
-| Project | URL | Description |
-|---------|-----|-------------|
-| SF6 Combo Checker | [sf6.lapius7.com/check](https://sf6.lapius7.com/check) | Street Fighter 6 combo verification tool |
-| VALORANT Rank Overlay | [overlay.lapius7.com/valorant](https://overlay.lapius7.com/valorant) | Real-time rank overlay for streaming |
+| Project | Description |
+|---------|-------------|
+| [lapius7.com](https://www.lapius7.com) | トップページ |
+| [Service Hub / Status](https://up.lapius7.com) | 全サービスをまとめたハブ＆ステータスページ |
+| [おはツイKeeper](https://ohatwikeeper.com) | 毎朝のおはようツイートを記録・管理するサービス |
+
+---
+
+## Socials
+
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Lapius7)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Lapius7)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://click.lapius7.com/Youtube)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=flat-square&logo=twitch&logoColor=white)](https://click.lapius7.com/Twitch)
+[![Kick](https://img.shields.io/badge/Kick-53FC18?style=flat-square&logo=kick&logoColor=black)](https://click.lapius7.com/kick)
+[![BlueSky](https://img.shields.io/badge/BlueSky-0285FF?style=flat-square&logo=bluesky&logoColor=white)](https://click.lapius7.com/Bsky)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://s.lapius7.com/discord)
+[![Zenn](https://img.shields.io/badge/Zenn-3EA8FF?style=flat-square&logo=zenn&logoColor=white)](https://click.lapius7.com/zenn)
 
 ---
 
 ## GitHub Stats
 
+<div align="center">
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lapius7&show_icons=true&theme=dark&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lapius7&layout=compact&theme=dark&hide_border=true)
 
----
-
-## Contact
-
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:19860826ryo@gmail.com)
+</div>

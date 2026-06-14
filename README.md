@@ -28,6 +28,16 @@
 
 ---
 
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Lapius7&show_icons=true&theme=dark)
+[![Streak](https://streak-stats.demolab.com?user=Lapius7&theme=dark)](https://git.io/streak-stats)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lapius7&layout=compact&theme=dark)
+
+</div>
+
+---
+
 ## Projects / Services
 
 **公式 / Official**
@@ -158,4 +168,4 @@
 [![Marshmallow](https://img.shields.io/badge/Marshmallow-FF8E8E?style=flat-square&logoColor=white)](https://click.lapius7.com/marshmallow)
 [![Giftee](https://img.shields.io/badge/Giftee-FF6F61?style=flat-square&logoColor=white)](https://click.lapius7.com/giftee)
 [![好きな曲リスト](https://img.shields.io/badge/好きな曲リスト-1DB954?style=flat-square&logo=spotify&logoColor=white)](http://click.lapius7.com/LikeMusicList)
-[![LINE](https://img.shields.io/badge/LINE_Game-00C300?style=flat-square&logo=line&logoColor=white)](https://click.lapius7.com/Line:Game)
+[![LINE](https://img.shields.io/badge/LINE_Game-00C300?style=flat-square&logo=line&logoColor=white)](https://line.me/R/ti/p/@602prdzh)

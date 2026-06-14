@@ -1,3 +1,5 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Lapius7&theme=dark)
+
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Lapius7&color=green&style=flat-square&label=PROFILE+VIEWS)
@@ -33,6 +35,8 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=Lapius7&show_icons=true&theme=dark)
 [![Streak](https://streak-stats.demolab.com?user=Lapius7&theme=dark)](https://git.io/streak-stats)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lapius7&layout=compact&theme=dark)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Lapius7&theme=react-dark)
 
 </div>
 

@@ -27,15 +27,15 @@
 
 **Web / Frontend**
 
-[![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite&perline=8)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite&perline=8)]
 
 **Backend / Database**
 
-[![Skills](https://skillicons.dev/icons?i=nodejs,express,fastapi,py,java,php,mysql,mongodb,redis,prisma&perline=10)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=nodejs,express,fastapi,py,java,php,mysql,mongodb,redis,prisma&perline=10)]
 
 **Infra / Tools**
 
-[![Skills](https://skillicons.dev/icons?i=docker,nginx,linux,git,powershell,latex&perline=8)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=docker,nginx,linux,git,powershell,latex&perline=8)]
 
 ---
 

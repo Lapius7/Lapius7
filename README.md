@@ -12,6 +12,15 @@
 
 </div>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lapius7/Lapius7/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lapius7/Lapius7/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Lapius7/Lapius7/output/github-contribution-grid-snake.svg" width="820">
+  </picture>
+</p>
+
+
 ---
 
 ## Tech Stack
@@ -32,20 +41,12 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lapius7&show_icons=true&theme=dark" height="160" />
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Lapius7&theme=dark" height="160" /></a>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lapius7&layout=compact&theme=dark" height="160" />
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lapius7&theme=react-dark" width="820" />
-</p>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lapius7/Lapius7/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lapius7/Lapius7/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Lapius7/Lapius7/output/github-contribution-grid-snake.svg" width="820">
-  </picture>
 </p>
 
 ---

@@ -100,8 +100,6 @@
 
 **Game**
 
-[![VRChat](https://img.shields.io/badge/VRChat-1778F2?style=flat-square&logoColor=white)](https://jump.lapius7.com/vrc)
-[![VRChat Profile](https://img.shields.io/badge/VRChat_Profile-1778F2?style=flat-square&logoColor=white)](https://www.konosetsuzuri.digital)
 [![Pulse](https://img.shields.io/badge/Pulse-FF6B6B?style=flat-square&logoColor=white)](https://jump.lapius7.com/pulse)
 
 **Dev**

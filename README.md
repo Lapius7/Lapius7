@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Lapius7&color=green&style=flat-square&label=PROFILE+VIEWS)
+![Profile Views](https://hits.sh/github.com/Lapius7.svg?style=flat-square&label=profile%20views&color=2ea44f)
 
 # Lapius / 狐ノ瀬つづり
 

@@ -1,0 +1,36 @@
+name: Metrics
+
+on:
+  schedule:
+    - cron: "0 1 * * *" # 毎日 10:00 JST に自動実行
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/metrics.yml"
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Lapius7
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Tokyo
+          config_display: regular
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_languages: yes
+          plugin_languages_sections: most-used
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 8
+          filename: github-metrics.svg
+          committer_branch: output
+          # 既定の出力先は main への直接コミットなので、snake.yml と同じ output ブランチへ出力する

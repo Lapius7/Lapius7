@@ -45,6 +45,14 @@
 
 ---
 
+## Metrics
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Lapius7/Lapius7/output/github-metrics.svg" alt="GitHub metrics" />
+</p>
+
+---
+
 ## Stats
 
 <p align="center">

@@ -32,5 +32,5 @@ jobs:
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 8
           filename: github-metrics.svg
-          committer_branch: output
-          # 既定の出力先は main への直接コミットなので、snake.yml と同じ output ブランチへ出力する
+          committer_branch: metrics
+          # snake.yml が output ブランチを毎回作り直すため、別のブランチへ出力する

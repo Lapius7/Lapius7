@@ -8,7 +8,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=auto&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%C2%B7+Japan;Web%E9%96%8B%E7%99%BA%E3%82%84%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E9%96%8B%E7%99%BA%E3%82%92%E8%B6%A3%E5%91%B3%E3%81%A7%E6%A5%BD%E3%81%97%E3%82%93%E3%81%A7%E3%81%84%E3%81%BE%E3%81%99;%E3%81%97%E3%81%8C%E3%81%AA%E3%81%84%E4%B8%80%E8%88%AC%E3%83%94%E3%83%BC%E3%83%9D%E3%83%BC%E3%81%A7%E3%81%99%E3%80%82)
 
-[![Status](https://img.shields.io/website?url=https%3A%2F%2Fup.lapius7.com&style=flat-square&label=All%20Systems&up_message=operational&down_message=outage)](https://up.lapius7.com/)
+![Status](https://img.shields.io/website?url=https%3A%2F%2Fup.lapius7.com&style=flat-square&label=All%20Systems&up_message=operational&down_message=outage)
 
 </div>
 
@@ -42,7 +42,7 @@
 <table align="center">
   <tr>
     <td valign="top" width="50%">
-      <img src="https://raw.githubusercontent.com/Lapius7/Lapius7/output/github-metrics.svg" alt="GitHub metrics" width="100%" />
+      <img src="https://raw.githubusercontent.com/Lapius7/Lapius7/metrics/github-metrics.svg" alt="GitHub metrics" width="100%" />
     </td>
     <td valign="top" width="50%">
       <img src="https://github-readme-stats.vercel.app/api?username=Lapius7&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" width="100%" />

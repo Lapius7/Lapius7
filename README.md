@@ -1,5 +1,14 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Lapius7&theme=dark)
 
+<p align="center">
+<a href="https://replace-readme.wks.lapius7.com/board/lapius7/press">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://replace-readme.wks.lapius7.com/board/lapius7.svg?mode=dark">
+    <img ismap src="https://replace-readme.wks.lapius7.com/board/lapius7.svg?mode=light" width="800" alt="Shared canvas. Click a square to toggle it.">
+  </picture>
+</a>
+</p>
+
 <div align="center">
 
 ![Profile Views](https://hits.sh/github.com/Lapius7.svg?style=flat-square&label=profile%20views&color=2ea44f)

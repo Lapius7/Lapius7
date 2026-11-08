@@ -4,7 +4,7 @@
 <a href="https://replace-readme.wks.lapius7.com/board/lapius7/press">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://replace-readme.wks.lapius7.com/board/lapius7.svg?mode=dark">
-    <img ismap src="https://replace-readme.wks.lapius7.com/board/lapius7.svg?mode=light" width="800" alt="Shared canvas. Click a square to toggle it.">
+    <img ismap src="https://replace-readme.wks.lapius7.com/board/lapius7.svg?mode=light" width="480" alt="Shared canvas. Click a square to toggle it.">
   </picture>
 </a>
 </p>

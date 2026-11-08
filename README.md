@@ -1,10 +1,10 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Lapius7&theme=dark)
 
 <p align="center">
-<a href="https://replace-readme.wks.lapius7.com/board/lapius7/32/press">
+<a href="https://replace-readme.wks.lapius7.com/board/lapius7/40/press">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://replace-readme.wks.lapius7.com/board/lapius7/32.svg?mode=dark">
-    <img ismap src="https://replace-readme.wks.lapius7.com/board/lapius7/32.svg?mode=light" width="560" alt="Shared canvas. Click a square to toggle it.">
+    <source media="(prefers-color-scheme: dark)" srcset="https://replace-readme.wks.lapius7.com/board/lapius7/40.svg?mode=dark">
+    <img ismap src="https://replace-readme.wks.lapius7.com/board/lapius7/40.svg?mode=light" width="560" alt="Shared canvas. Click a square to toggle it.">
   </picture>
 </a>
 </p>
